@@ -15,7 +15,7 @@ body {
     background-image: url("../img/sun-pattern.png");
 }
 #about-me,
-#skills {
+.skills {
     background-color: whitesmoke;
     text-align: center;
     padding: 40px;
