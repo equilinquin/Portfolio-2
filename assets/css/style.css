@@ -7,16 +7,21 @@ header {
     
 }
 img {
-    height: 10%;
-    width: 10%;
+    height: 20%;
+    width: 20%;
     position: static;
+}
+body {
+    background-image: url("../img/sun-pattern.png");
+}
+#about-me,
+#skills {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 40px;
 }
 h5 {
     padding-top: 20px;
-}
-.uk-card {
-    text-align: center;
-    width: 80%;
 }
 footer {
     position: relative;
