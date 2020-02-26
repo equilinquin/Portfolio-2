@@ -3,8 +3,10 @@ header {
     text-align: center;
     padding-top: 100px;
     padding-bottom: 150px;
-    background-image: url("../img/space.jpg");
-    
+    background-image: url("../img/space.jpg"); 
+}
+.header {
+    text-align: center;
 }
 img {
     height: 20%;
@@ -12,17 +14,38 @@ img {
     position: static;
 }
 body {
-    background-image: url("../img/sun-pattern.png");
+    background-image: url("../img/black_denim.png");
 }
-#about-me,
-.skills {
-    background-color: whitesmoke;
+#about-me {
+    background-color:whitesmoke;
     text-align: center;
     padding: 40px;
+}
+.connect {
+    background-image:url("../img/space2.jpg");
+    text-align: center;
+    padding: 40px;
+}
+.skills {
+    background-image:url("../img/y-so-serious.png");
+    text-align: center;
+    padding: 40px;
+}
+.fa-file-pdf {
+    padding-top: 10px;
+}
+.fa-linkedin {
+    margin-right: 20px;
 }
 h5 {
     padding-top: 20px;
 }
+form {
+    width: 50%;
+    background-color:whitesmoke;
+    padding: 40px;
+}
+
 footer {
     position: relative;
     bottom: 0;
